@@ -1,0 +1,9 @@
+Recently, my account got flagged wrongfully. It has been 3 weeks now and still no response, which is actually crazy, I need help as soon as possible because, 
+at the moment, no one can see my profile, repositories, anything, no GitHub pages, I can't even sign into Git or GitHub on my computer anymore in different software, like vscode. 
+I can't stress enough how bad this is for me because of the organization I'm helping can't see what I'm doing nor could I even push code to their repositories, but I figured out something that 
+I can, but I am also trying to find a job and no employer can see any of my hard work over the couple years, this is horrible. I am getting really pissed now, this is extremely frustrating and I don't even know if they were able to see my last support ticket. 
+I seriously don't know if they're ignoring me on purpose because I am really trying to reach them or maybe GitHub did this on purpose, but nahhh, can't be. 
+I think that because I have 2fa and the reason for my account being flagged was because I was 'hacked' thus I had to change my password and then this happened, 
+I can't do anything anymore. This all just caused unnecessary frustration and wasted time... I am losing respect for GitHub and I really don't want to, I really need my account back.
+
+And yes, I am on a different account. I am just trying to reach them in whatever way possible and hoping a GitHub member sees this, since I can't create another ticket on my main account. I do not want to start using this one because all the stars on my Repos, organizations and just being able to see my history, etc. I don't know... this is all very important to me.
